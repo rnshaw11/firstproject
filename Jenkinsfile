@@ -1,6 +1,6 @@
 pipeline
 {
- agebt any
+ agent any
   stages
   {
     stage('build')
